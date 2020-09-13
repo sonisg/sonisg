@@ -8,7 +8,7 @@ OpenCV topics
 7. Draw and find Contours.
 8. Detect Shapes.
 9. Morphological functions (Opening and Closing).
-10. Camera and Face Detection.
+10. Face Detection Using Haar Cascade Classifier.
 11. Sobel Derivatives ( Sobel and Scharr Operators).
 12. Histogram Equalization
 13. Hough Line Transform.
