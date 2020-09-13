@@ -1,7 +1,7 @@
 Linkedin [https://www.linkedin.com/in/soni-kumari-ba8611169/]
 
 ### Hi there 👋
- I am **Soni Kumari**. My interests are Machine learning, Data Science, Python and Computer Vision. I am currently learning Flask and prefer learning new things.
+ I am **Soni Kumari**. My interests are Machine learning, Data Science, Python and Computer Vision. I am currently learning Flask and always eager to learn new things.
 
 - 🔭 I’m currently working on Computer Vision project.
 - 🌱 I’m currently learning **Data Science**.
