@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with Flask Deployment.
 - 💬 Ask me about Machine Learning, Python, OpenCV, Data Science.
 - 📫 How to reach me: U can mail me on soniguptasg1344@gmail.com
-- ⚡ Fun fact: I love painting.
+- ⚡ Fun fact: I love painting:heart:
