@@ -63,3 +63,9 @@ Closing
 
 **Application**- Used to remove small holes inside the foreground image.
 
+Thanks for reading!!!
+
+Regards
+**Soni Kumari**
+You can contact me on [https://www.linkedin.com/in/soni-kumari-ba8611169/]
+
