@@ -26,21 +26,19 @@ Dilation
 
 ![Dilation](https://docs.opencv.org/trunk/dilation.png)
 
-
 Useful in joining broken parts of the image.
 
 ## Opening
-This is erosion followed by dilation.
+This is erosion followed by dilation. Goal of opening is to remove false positives, sometimes you get pixels in the background you can remove that using this method.
 
 Opening
 
 ![Opening](http://docs.opencv.org/trunk/opening.png)
 
-
 Used to remove internal noise in an image.
 
 ## Closing
-It is opposite of opening. Simply dilation followed by erosion.
+It is opposite of opening. Simply dilation followed by erosion. The goal of clsoing to remove the false negatives. This is where your main image lies and you need to remove the holes from here.
 
 Closing
 
