@@ -1,6 +1,10 @@
 # Morphological processing
 Morphological operations are operations based on image shapes and more generally on binary images. Two images are required for this. The first is an original image and the second is called the kernel or structuring element.
 They take the input image and the structuring element and are joined using set operations.
+
+## Why use morphological processing?
+The main function is to remove imperfections in structure of the image.
+
 Some of the morphological operations are: 
 1. Erosion
 2. Dilation 
