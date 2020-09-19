@@ -31,11 +31,21 @@ Useful in joining broken parts of the image.
 
 ## Opening
 This is erosion followed by dilation.
+!(https://media.geeksforgeeks.org/wp-content/uploads/20190526111405/Screenshot-473.png)
 
 Opening
 
-![Opening] (data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAACWCAAAAAAjllMIAAACzklEQVR4nO2b3VLEIAyFi+P7v3K9ci2Qn5PkUGUtV12nk68nDZCE2s7j3vFxM+8BPsANgJ9EW+04DndaN87Eb68rzx7HpU28XAgMDArQU8UGNuPXCuBIsIl7vsP/BrSn/jsoXA6MrcZ8hQ6fDrxjtziVa3GQ9sPvBc23RnPpifF4CtGx4zz840BGmtiOA19vaDs+mtfwXAoS68BIykYBBkcZGBRYBkZ5VWCYVwReeeBE3Cto4g6tATO8rVyaElgA5njknGYlMClwn6DJCswC07wkcObB6W0KmNeXA1Z4GWCJlwDWeHGgzMNLoiiwqC+a6pdxQeCUwiQeIADsrKfrWBjYixl4ATwGHF1XqNOhKCXyAIWFhToDJONsoBj0p3dDAmjYkeVFRAtAncdoIs1RupaHT3xWiwwEirjUUg4BHXUh8S6Q3W2cg6YjnPTupqAQZdxdriXHRucWv1aQBsNqn45wwKNdx/gGhX3HuAz0z376n8tL7vHGalffETg/19oaX7htadBI7dScS1+WLI/KtQjzAx4dd3mwmkt1gWrts6htotdaa1xqlJIZoBcyZinJVzj4e3yoBNAU6ODYCl0cFTjFrviK40BlTqCVaxgo8qQ/KiFcdqkiWF2Dol8qYPuSYXTJ9mSJSPfaUrQAENzi/RcEAdGMCYmHTCeqgMt0ogowF8gIkgDQxaXKcRVo4gqVvwK01VU6DfJKQ+jeh4AOj96gFTvOLNEzkNngRoBmjkd4ghHon4YUFQ9Bwzl9sUavUP8+BirQkKHu+Ks+kuyAF4EDj7cSyEvbKA///w13XBWq74nIE9/h0m9ckTSRKRABUnmhRJji6gsQLotYwFt4IrDJ15zgdRTSeVfgj8VvTOPz+vowfDSaGJ1Ldau8xQebh8TFrgcqhpmL66BwRRZjAiXj3M1jeoejefaRpdQ24W4PAHDp2PGE9AE+wHcDfgFtZXd/UNzSxgAAAABJRU5ErkJggg==)
+![Opening] (https://docs.opencv.org/trunk/opening.png)
 
 
 Used to remove internal noise in an image.
+
+## Closing
+It is opposite of opening. Simply dilation followed by erosion.
+
+Closing
+
+![Closing] (https://docs.opencv.org/trunk/closing.png)
+
+Used to remove small holes inside the foreground image.
 
