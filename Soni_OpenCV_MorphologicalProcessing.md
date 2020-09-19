@@ -31,11 +31,10 @@ Useful in joining broken parts of the image.
 
 ## Opening
 This is erosion followed by dilation.
-!(https://media.geeksforgeeks.org/wp-content/uploads/20190526111405/Screenshot-473.png)
 
 Opening
 
-![Opening] (https://docs.opencv.org/trunk/opening.png)
+![Opening](http://docs.opencv.org/trunk/opening.png)
 
 
 Used to remove internal noise in an image.
@@ -45,7 +44,7 @@ It is opposite of opening. Simply dilation followed by erosion.
 
 Closing
 
-![Closing] (https://docs.opencv.org/trunk/closing.png)
+![Closing](https://docs.opencv.org/trunk/closing.png)
 
 Used to remove small holes inside the foreground image.
 
