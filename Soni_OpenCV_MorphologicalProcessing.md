@@ -38,7 +38,7 @@ Opening
 Used to remove internal noise in an image.
 
 ## Closing
-It is opposite of opening. Simply dilation followed by erosion. The goal of clsoing to remove the false negatives. This is where your main image lies and you need to remove the holes from here.
+It is opposite of opening. Simply dilation followed by erosion. The goal of closing to remove the false negatives. This is where your main image lies and you need to remove the holes from here.
 
 Closing
 
